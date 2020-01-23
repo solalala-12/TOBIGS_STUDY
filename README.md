@@ -6,7 +6,7 @@
 - [Logistic_Regression](https://github.com/sora-12/TOBIGS_Study/blob/master/week1/Logistic_Regression/assignment_1/Logistic_Assignment_2-GD_%EC%9D%B4%EC%86%8C%EB%9D%BC.ipynb)
 - [kaggle 타이타닉 tutorial](https://github.com/sora-12/TOBIGS_Study/blob/master/week1/Logistic_Regression/assignment_1/Logistic_Regression_01_%EC%9D%B4%EC%86%8C%EB%9D%BC.ipynb)
 
-## svm
+## SVM
 - [Dacon 아파트 경매값 예측 Contest +
 KNN, Naive Bayes](https://github.com/sora-12/TOBIGS_Study/blob/master/week2/svm/2%EC%A3%BC%EC%B0%A8%EA%B2%BD%EB%A7%A4.ipynb)
 
